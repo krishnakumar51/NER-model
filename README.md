@@ -19,7 +19,7 @@ This project implements Named Entity Recognition (NER) using BERT, a state-of-th
 To get started with this project, follow these steps:
 
 1. Clone the repository.
-2. Install the required dependencies specified in the `requirements.txt` file.
+2. Install the required dependencies.
 3. Prepare your dataset or use the provided CoNLL 2003 dataset for training and evaluation.
 4. Run the training script to train the BERT model on your dataset.
 5. Evaluate the trained model using the evaluation script.
